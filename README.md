@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: NGUYEN SON TUNG
+* Student ID: BA11-099
+*  Group 1
 
